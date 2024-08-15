@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3062A09E-423A-CD48-0BF9-484412BDC064}|Assembly-CSharp.csproj|d:\\dozen\\basketball-game\\my_basketball_game\\assets\\scripts\\basketballthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3062A09E-423A-CD48-0BF9-484412BDC064}|Assembly-CSharp.csproj|d:\\dozen\\basketball-game\\my_basketball_game\\assets\\scripts\\mainscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3062A09E-423A-CD48-0BF9-484412BDC064}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3062A09E-423A-CD48-0BF9-484412BDC064}|Assembly-CSharp.csproj|d:\\dozen\\basketball-game\\my_basketball_game\\assets\\scripts\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3062A09E-423A-CD48-0BF9-484412BDC064}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3062A09E-423A-CD48-0BF9-484412BDC064}|Assembly-CSharp.csproj|D:\\Dozen\\Basketball-game\\My_Basketball_Game\\assets\\scripts\\basketballthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3062A09E-423A-CD48-0BF9-484412BDC064}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basketballthrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainSceneController.cs",
+              "DocumentMoniker": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\Assets\\Scripts\\MainSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainSceneController.cs",
+              "ToolTip": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\Assets\\Scripts\\MainSceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainSceneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:47:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\Assets\\Scripts\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HomeController.cs",
+              "ToolTip": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\Assets\\Scripts\\HomeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:25:10.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -38,20 +72,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BasketballThrower.cs",
               "DocumentMoniker": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\Assets\\Scripts\\BasketballThrower.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BasketballThrower.cs",
               "ToolTip": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\Assets\\Scripts\\BasketballThrower.cs",
               "RelativeToolTip": "Assets\\Scripts\\BasketballThrower.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "ViewState": "AQIAALIAAAAAAAAAAAAwwLsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T09:57:08.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T09:57:08.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CameraController.cs",
               "DocumentMoniker": "D:\\Dozen\\Basketball-game\\My_Basketball_Game\\Assets\\Scripts\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
